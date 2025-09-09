@@ -15,25 +15,25 @@
       "miniaturaUrl": "https://picsum.photos/id/1020/200"
     }
     {
-      "albumId": 1,
       "id": 3,
-      "title": "officia porro iure quia iusto qui ipsa ut modi",
-      "url": "https://picsum.photos/id/1025/800",
-      "thumbnailUrl": "https://picsum.photos/id/1025/200"
-    },
-    {
       "albumId": 1,
-      "id": 4,
-      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-      "url": "https://picsum.photos/id/1030/800",
-      "thumbnailUrl": "https://picsum.photos/id/1030/200"
+      "titulo": "officia porro iure quia iusto qui ipsa ut modi",
+      "url": "https://picsum.photos/id/1025/800",
+      "miniaturaUrl": "https://picsum.photos/id/1025/200"
     },
     {
-      "albumId": 2,
       "id": 4,
-      "title": "second album",
+      "albumId": 1,
+      "titulo": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://picsum.photos/id/1030/800",
+      "miniaturaUrl": "https://picsum.photos/id/1030/200"
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "titulo": "second album",
       "url": "https://picsum.photos/id/1035/800",
-      "thumbnailUrl": "https://picsum.photos/id/1035/200"
+      "miniaturaUrl": "https://picsum.photos/id/1035/200"
     }
   ]
 }
